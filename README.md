@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
