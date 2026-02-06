@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3827-count-monobit-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
