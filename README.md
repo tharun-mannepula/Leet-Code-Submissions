@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
