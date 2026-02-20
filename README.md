@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0901-online-stock-span) |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
