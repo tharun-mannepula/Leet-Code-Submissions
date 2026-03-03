@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
