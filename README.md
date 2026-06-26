@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
+| [0059-spiral-matrix-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0239-sliding-window-maximum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
 ## Data Stream
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0176-second-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
