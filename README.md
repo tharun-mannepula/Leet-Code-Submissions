@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0875-koko-eating-bananas) |
 ## Database
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0059-spiral-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
