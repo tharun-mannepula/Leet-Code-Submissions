@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0875-koko-eating-bananas) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2104-sum-of-subarray-ranges) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3827-count-monobit-integers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3827-count-monobit-integers) |
 ## Enumeration
 |  |
 | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3827-count-monobit-integers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3827-count-monobit-integers) |
 ## Queue
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0069-sqrtx) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
