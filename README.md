@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0173-binary-search-tree-iterator) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
