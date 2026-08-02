@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0287-find-the-duplicate-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
 ## Data Stream
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -309,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
