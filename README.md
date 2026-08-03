@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
