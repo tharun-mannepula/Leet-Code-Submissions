@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2104-sum-of-subarray-ranges) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0994-rotting-oranges) |
 ## Data Stream
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
