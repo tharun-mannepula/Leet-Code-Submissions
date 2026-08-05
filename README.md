@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0875-koko-eating-bananas) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0994-rotting-oranges) |
 ## Data Stream
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
