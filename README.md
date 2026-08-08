@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0085-maximal-rectangle) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
