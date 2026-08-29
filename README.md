@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0994-rotting-oranges) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Memoization
 |  |
@@ -391,4 +394,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
