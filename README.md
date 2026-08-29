@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2104-sum-of-subarray-ranges) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Database
 |  |
 | ------- |
