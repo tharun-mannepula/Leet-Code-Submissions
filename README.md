@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3903-smallest-stable-index-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3975-filter-occupied-intervals](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
@@ -426,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
