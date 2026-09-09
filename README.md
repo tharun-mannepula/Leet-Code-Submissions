@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0994-rotting-oranges) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Matrix
 |  |
