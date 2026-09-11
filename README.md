@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3827-count-monobit-integers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3827-count-monobit-integers) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
