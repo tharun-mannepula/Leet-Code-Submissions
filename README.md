@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -449,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3903-smallest-stable-index-i) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
