@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Greedy
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0059-spiral-matrix-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
