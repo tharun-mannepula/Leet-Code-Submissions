@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0239-sliding-window-maximum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3903-smallest-stable-index-i) |
 ## Geometry
