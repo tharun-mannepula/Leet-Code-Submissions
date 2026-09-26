@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2104-sum-of-subarray-ranges) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
