@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
 |  |
 | ------- |
