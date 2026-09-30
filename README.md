@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0518-coin-change-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -481,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
