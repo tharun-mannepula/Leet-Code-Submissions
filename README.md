@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0070-climbing-stairs) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0518-coin-change-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
