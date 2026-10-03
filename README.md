@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3903-smallest-stable-index-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3975-filter-occupied-intervals](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3975-filter-occupied-intervals) |
 ## Tree
 |  |
