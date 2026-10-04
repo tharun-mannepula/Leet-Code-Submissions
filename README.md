@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Matrix
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
