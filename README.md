@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Design
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tharun-mannepula/Leet-Code-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
